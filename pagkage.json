@@ -1,0 +1,18 @@
+{
+    "name": "eslint-plugin-no-moment",
+    "version": "1.0.0",
+    "description": "An ESLint plugin that forbids the import of Moment.js",
+    "main": "index.js",
+    "keywords": [
+      "eslint",
+      "eslintplugin",
+      "no-moment"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "scripts": {
+      "test": "echo \"No tests yet\" && exit 0"
+    },
+    "dependencies": {}
+  }
+  
